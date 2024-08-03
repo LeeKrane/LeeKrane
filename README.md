@@ -1,3 +1,5 @@
+[![MasterHead](https://images.wallpapersden.com/image/download/programming-coding-language_bGhpbm6UmZqaraWkpJRqZmdlrWZpaWU.jpg)](https://krane.dev)
+
 <h1 align="center">Hi 👋, I'm Christian Kranabetter</h1>
 <h3 align="center">A passionate full-stack software engineer from Austria.</h3>
 
