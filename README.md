@@ -14,7 +14,7 @@
 
 🌱 I’m currently learning **Supabase**
 
-💬 Ask me about **Nuxt.js** or **Web Development** in general
+💬 Ask me about **Nuxt.js** or **Linux**
 
 </div>
 
