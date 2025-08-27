@@ -10,11 +10,11 @@
 
 <div align="center">
   
-🔭 I’m currently working on **my Portfolio and a Homepage**
+🔭 I’m currently working on [ResuGen](https://github.com/LeeKrane/ResuGen)
 
-🌱 I’m currently learning **Rust, Coolify**
+🌱 I’m currently learning **Supabase**
 
-💬 Ask me about **Nuxt.js, Vue.js, Nest.js**
+💬 Ask me about **Nuxt.js** or **Web Development** in general
 
 </div>
 
