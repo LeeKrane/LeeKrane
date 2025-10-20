@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=#6D4AFF" />
   </a>
   <a href="https://www.linkedin.com/in/christian-kranabetter-26632a205/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
 </div>
 
