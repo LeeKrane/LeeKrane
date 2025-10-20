@@ -59,6 +59,9 @@ current_focus:
   <a href="https://www.linkedin.com/in/christian-kranabetter-26632a205/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
   </a>
+  <a href="https://ko-fi.com/kranarienvogel" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
 </div>
 
 <br/>
