@@ -3,14 +3,10 @@
 </div>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=32&duration=1000&pause=1500&color=8927F7&center=true&vCenter=true&width=500&height=70&lines=Hello+There!+👋;I'm+Christian+Kranabetter!;Aka.+Krane." />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=28&duration=1000&pause=1500&color=8927F7&center=true&vCenter=true&width=500&height=70&lines=Welcome+to+my+GitHub!+👋" />
 </h1>
 
 <div align="center">
-
-### A passionate **Full-Stack Software Engineer** from Austria 🇦🇹
-
-#### Currently working as **Web Developer** and **DevOps Engineer**
 
   <img src="https://img.shields.io/github/followers/LeeKrane?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/LeeKrane?label=Stars&style=social" />
@@ -69,7 +65,9 @@ current_focus:
 <br/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=28&duration=1000&pause=1500&color=4EAA25&center=true&vCenter=true&width=500&height=70&lines=🐍+My+Contributions;🚀+Receent+Activity;🔥+Commit+History" />
+  </h1>
   
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeKrane/LeeKrane/output/github-contribution-grid-snake-dark.svg" />
