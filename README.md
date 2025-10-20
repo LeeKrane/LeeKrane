@@ -75,6 +75,11 @@ current_focus:
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LeeKrane/LeeKrane/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LeeKrane/LeeKrane/output/github-contribution-grid-snake.svg" />
   </picture>
+
+<!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
+
+<!--START_SECTION:activity-->
+
 </div>
 
 <br/>
