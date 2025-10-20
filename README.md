@@ -53,7 +53,6 @@ current_focus:
 </div>
 
 </details>
-
   <a href="mailto:chris@krane.dev">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=#6D4AFF" />
   </a>
@@ -64,6 +63,8 @@ current_focus:
 
 <br/>
 <br/>
+
+---
 
 <div align="center">
   <h1 align="center">
@@ -84,6 +85,8 @@ current_focus:
 
 <br/>
 <br/>
+
+---
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=28&duration=1000&pause=1500&color=8927F7&center=true&vCenter=true&width=400&height=60&lines=🚀+Tech+Stack;💻+Skills+%26+Tools;⚡+Technologies" />
@@ -112,6 +115,8 @@ current_focus:
 
 <br/>
 <br/>
+
+---
 
 <h2 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=28&duration=1000&pause=1500&color=FCC624&center=true&vCenter=true&width=400&height=60&lines=⚡+GitHub+Analytics;📊+Stats+%26+Metrics;🔥+Activity+Overview" />
