@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Christian%20Kranabetter&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Software%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=55&descSize=18" />
+</div>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=32&duration=1000&pause=1500&color=8927F7&center=true&vCenter=true&width=500&height=70&lines=Hello+There!+👋;I'm+Christian+Kranabetter!;Aka.+Krane." />
 </h1>
@@ -10,18 +14,41 @@
 
   <img src="https://img.shields.io/github/followers/LeeKrane?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/LeeKrane?label=Stars&style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeeKrane.LeeKrane" />
 
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeeKrane.LeeKrane" />
   <img src="https://img.shields.io/badge/OS-Nobara%20Linux-informational?style=flat&logo=nobara-linux&logoColor=white&color=FCC624" />
   <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=4EAA25" />
 
   <br/>
 
-🔭 I'm currently working on [**ResuGen**](https://github.com/LeeKrane/ResuGen)
+</div>
 
-🌱 I'm currently learning **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
+```yaml
+current_focus:
+  project: "ResuGen - Resume Generation Platform"
+  learning: ["Supabase", "Advanced DevOps", "Dokploy"]
+  expertise: ["Nuxt.js", "Linux"]
+  location: "Austria 🇦🇹"
+  status: "Open to collaboration"
+```
 
-💬 Ask me about **Nuxt.js**, **Linux**, or **Coolify**
+<div align="center">
+
+<details>
+<summary>🚀 Quick Facts About Me</summary>
+
+<div align="left">
+
+- 🔭 Currently building [**ResuGen**](https://github.com/LeeKrane/ResuGen) - A modern resume generation platform
+- 🌱 Expanding my knowledge in **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
+- 💬 Love discussing **Nuxt.js**, and **Linux**
+- ⚡ Fun fact: I run Nobara Linux and live in the terminal with ZSH
+- 🎯 Always excited about new tech and open-source contributions
+- 🤝 Open to collaborating on interesting projects
+
+</div>
+
+</details>
 
   <a href="mailto:chris@krane.dev">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=#6D4AFF" />
@@ -47,55 +74,111 @@
 <br/>
 <br/>
 
-<h1 align="center">🚀 Tech Stack</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=28&duration=1000&pause=1500&color=8927F7&center=true&vCenter=true&width=400&height=60&lines=🚀+Tech+Stack;💻+Skills+%26+Tools;⚡+Technologies" />
+</h1>
 
 <div align="center">
-    <h2 align=center>🎯 Expert Level</h2>
-    <img src="https://skillicons.dev/icons?i=ts,js,nuxtjs,tailwind,linux" />
+
+| 🎯 **Expert Level** | 🔥 **Proficient Level** | 📈 **Intermediate Level** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=ts,js,nuxtjs,tailwind,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=java,html,css,vue,docker&theme=dark" /> | <img src="https://skillicons.dev/icons?i=supabase,spring,nestjs,mysql&theme=dark" /> |
+
+| ⚡ **Decent Level** | 🌱 **Basic Level** | 🛠️ **Tools** |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=kotlin,python,cs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=rust,c,cpp,kubernetes&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,postgres,cloudflare&theme=dark" /> |
+
 </div>
 
 <div align="center">
-    <h2 align=center>🔥 Proficient Level </h2>
-    <img src="https://skillicons.dev/icons?i=java,html,css,vue,docker,git,bash,postgres,cloudflare" />
+  <h3>🎨 Development Environment and more</h3>
+  <img src="https://skillicons.dev/icons?i=webstorm,idea,neovim,vim,vscode,vscodium&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pnpm,md,latex,grafana,pinia&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=raspberrypi,redhat&theme=dark" />
 </div>
 
-<div align="center">
-    <h2 align=center>📈 Intermediate Level</h2>
-    <img src="https://skillicons.dev/icons?i=supabase,spring,nestjs,mysql" />
-</div>
 
-<div align="center">
-    <h2 align=center>⚡ Decent Level</h2>
-    <img src="https://skillicons.dev/icons?i=kotlin,python,cs" />
-</div>
-
-<div align="center">
-    <h2 align=center>🌱 Basic Level</h2>
-    <img src="https://skillicons.dev/icons?i=rust,c,cpp,kubernetes" />
-</div>
-
-<div align="center">
-    <h2 align=center>🛠️ Tools & Technologies</h2>
-    <img src="https://skillicons.dev/icons?i=git,github,docker,linux,raspberrypi,cloudflare,redhat" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=pnpm,md,latex,grafana,pinia" />
-    <br/>
-    <img src="https://skillicons.dev/icons?i=webstorm,idea,neovim,vim,vscode,vscodium" />
-    <br/>
-</div>
 
 <br/>
 <br/>
 
-<h2 align="center">⚡ GitHub Analytics</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=28&duration=1000&pause=1500&color=FCC624&center=true&vCenter=true&width=400&height=60&lines=⚡+GitHub+Analytics;📊+Stats+%26+Metrics;🔥+Activity+Overview" />
+</h2>
+
+<div align="center">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=LeeKrane&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=6" />
+  
+</div>
 
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=LeeKrane&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=LeeKrane&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKrane&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img height=200 src="https://streak-stats.demolab.com/?user=LeeKrane&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="streak stats"/>
+  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LeeKrane&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
+</div>
+
+<div align=center>
+  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKrane&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
+  <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=LeeKrane&theme=redical&bg_color=0d1117&color=8927F7&line=FCC624&point=4EAA25&area=true&hide_border=true" alt="activity graph" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+  
+  ### 🎵 Coding Soundtrack
+  
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gqb11pvx8q0oigq54mxx7drgm&count=3&unique=true" alt="Spotify recently played" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 💭 Random Dev Quote
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌟 Support My Work
+  
+  If you find my projects helpful, consider supporting me:
+  
+  <a href="https://ko-fi.com/kranarienvogel" target="_blank">
+    <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
+  </a>
+  <a href="https://github.com/sponsors/LeeKrane" target="_blank">
+    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" />
+  </a>
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ### 📈 Profile Stats
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeKrane&theme=radical" alt="Profile summary" />
+  
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8927F7&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=fadeIn" />
+</div>
+
+<div align="center">
+  
+  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
+  
 </div>
