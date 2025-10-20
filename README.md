@@ -147,7 +147,7 @@ current_focus:
 
 <div align="center">
   
-  ### 🎵 Currently listening to
+  ### 🎵 Now Playing / Last Played
 
 <a href="https://kranarienvogel.pythonanywhere.com/link">
   <img
