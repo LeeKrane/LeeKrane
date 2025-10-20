@@ -118,13 +118,13 @@ current_focus:
 </div>
 
 <div align=center>
-  <img height=200 src="https://streak-stats.demolab.com/?user=LeeKrane&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="streak stats"/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=LeeKrane&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
+  <img height=160 src="https://streak-stats.demolab.com/?user=LeeKrane&count_private=true&theme=radical&border_radius=10&hide_border=true" alt="streak stats"/>
+  <img height=160 src="https://github-readme-stats.vercel.app/api?username=LeeKrane&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true" alt="readme stats" />
 </div>
 
 <div align=center>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKrane&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
-  <img height=200 src="https://github-readme-activity-graph.vercel.app/graph?username=LeeKrane&theme=redical&bg_color=0d1117&color=8927F7&line=FCC624&point=4EAA25&area=true&hide_border=true" alt="activity graph" />
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeKrane&hide=HTML&langs_count=8&layout=compact&theme=radical&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
+  <img height=175 src="https://github-readme-activity-graph.vercel.app/graph?username=LeeKrane&theme=redical&bg_color=0d1117&color=8927F7&line=FCC624&point=4EAA25&area=true&hide_border=true" alt="activity graph" />
 </div>
 
 <br/>
