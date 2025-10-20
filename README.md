@@ -4,8 +4,10 @@
 
 <div align="center">
 
-  ### A passionate **Full-Stack Software Engineer** from Austria 🇦🇹
-  #### That is currently working as **Web Developer** and **DevOps Engineer**
+### A passionate **Full-Stack Software Engineer** from Austria 🇦🇹
+
+#### That is currently working as **Web Developer** and **DevOps Engineer**
+
   <img src="https://img.shields.io/github/followers/LeeKrane?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/LeeKrane?label=Stars&style=social" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LeeKrane.LeeKrane" />
@@ -15,11 +17,11 @@
 
   <br/>
 
-  🔭 I'm currently working on [**ResuGen**](https://github.com/LeeKrane/ResuGen)
+🔭 I'm currently working on [**ResuGen**](https://github.com/LeeKrane/ResuGen)
 
-  🌱 I'm currently learning **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
+🌱 I'm currently learning **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
 
-  💬 Ask me about **Nuxt.js**, **Linux**, or **Coolify**
+💬 Ask me about **Nuxt.js**, **Linux**, or **Coolify**
 
   <a href="mailto:chris@krane.dev">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=#6D4AFF" />
