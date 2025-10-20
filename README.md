@@ -1,24 +1,26 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LeeKrane.LeeKrane" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrainsMono&size=32&duration=2000&pause=1500&color=8927F7&center=true&vCenter=true&width=500&height=70&lines=Hello+There!+👋;I'm+Christian+Kranabetter!" />
 </h1>
 
-<h3 align="center">A passionate full-stack software engineer from Austria 🇦🇹</h3>
-
-<br/>
-
 <div align="center">
-  
-🔭 I'm currently working on [**ResuGen**](https://github.com/LeeKrane/ResuGen)
 
-🌱 I'm currently learning **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
+  ### A passionate **Full-Stack Software Engineer** from Austria 🇦🇹
+  #### That is currently working as **Web Developer** and **DevOps Engineer**
+  <img src="https://img.shields.io/github/followers/LeeKrane?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/LeeKrane?label=Stars&style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=LeeKrane.LeeKrane" />
 
-💬 Ask me about **Nuxt**, **Linux**, or **Coolify**
+  <img src="https://img.shields.io/badge/OS-Nobara%20Linux-informational?style=flat&logo=nobara-linux&logoColor=white&color=FCC624" />
+  <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=4EAA25" />
 
-</div>
+  <br/>
 
-<div align="center"> 
+  🔭 I'm currently working on [**ResuGen**](https://github.com/LeeKrane/ResuGen)
+
+  🌱 I'm currently learning **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
+
+  💬 Ask me about **Nuxt.js**, **Linux**, or **Coolify**
+
   <a href="mailto:chris@krane.dev">
     <img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=protonmail&logoColor=#6D4AFF" />
   </a>
