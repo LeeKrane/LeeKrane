@@ -10,12 +10,13 @@
 
 ### A passionate **Full-Stack Software Engineer** from Austria 🇦🇹
 
-#### That is currently working as **Web Developer** and **DevOps Engineer**
+#### Currently working as **Web Developer** and **DevOps Engineer**
 
   <img src="https://img.shields.io/github/followers/LeeKrane?label=Followers&style=social" />
   <img src="https://img.shields.io/github/stars/LeeKrane?label=Stars&style=social" />
-
   <img src="https://visitor-badge.laobi.icu/badge?page_id=LeeKrane.LeeKrane" />
+
+  <img src="https://img.shields.io/github/last-commit/LeeKrane/LeeKrane?label=Last%20Updated&style=flat&color=green" />
   <img src="https://img.shields.io/badge/OS-Nobara%20Linux-informational?style=flat&logo=nobara-linux&logoColor=white&color=FCC624" />
   <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=4EAA25" />
 
@@ -25,11 +26,13 @@
 
 ```yaml
 current_focus:
-  project: "ResuGen - Resume Generation Platform"
-  learning: ["Supabase", "Advanced DevOps", "Dokploy"]
-  expertise: ["Nuxt.js", "Linux"]
-  location: "Austria 🇦🇹"
-  status: "Open to collaboration"
+    project: "ResuGen - Resume Generation Platform"
+    learning: ["Supabase", "Advanced DevOps", "Dokploy"]
+    expertise: ["Nuxt.js", "Linux"]
+    education: "Bachelor's in Mobile Computing"
+    thesis: "DevOps Practices and Platform Evaluation for Small Projects"
+    location: "Austria 🇦🇹"
+    status: "Open to collaboration"
 ```
 
 <div align="center">
@@ -39,12 +42,14 @@ current_focus:
 
 <div align="left">
 
-- 🔭 Currently building [**ResuGen**](https://github.com/LeeKrane/ResuGen) - A modern resume generation platform
-- 🌱 Expanding my knowledge in **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
-- 💬 Love discussing **Nuxt.js**, and **Linux**
-- ⚡ Fun fact: I run Nobara Linux and live in the terminal with ZSH
-- 🎯 Always excited about new tech and open-source contributions
-- 🤝 Open to collaborating on interesting projects
+-   🔭 Currently building [**ResuGen**](https://github.com/LeeKrane/ResuGen) - A modern resume generation platform
+-   🎓 Pursuing my **Bachelor's** in **Mobile Computing** while working part-time as **Web Developer** and **DevOps Engineer**
+-   📝 Writing my **Bachelor thesis** on **"DevOps Practices and Platform Evaluation for Small Projects"**
+-   🌱 Expanding my knowledge in **Supabase**, **Advanced DevOps Practices**, and **Dokploy**
+-   💬 Love discussing **Nuxt.js**, and **Linux**
+-   ⚡ Fun fact: I run [Nobara Linux](https://nobaraproject.org/) and live in the terminal with ZSH
+-   🎯 Always excited about new tech and open-source contributions
+-   🤝 Open to collaborating on interesting projects
 
 </div>
 
@@ -84,22 +89,20 @@ current_focus:
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=ts,js,nuxtjs,tailwind,linux&theme=dark" /> | <img src="https://skillicons.dev/icons?i=java,html,css,vue,docker&theme=dark" /> | <img src="https://skillicons.dev/icons?i=supabase,spring,nestjs,mysql&theme=dark" /> |
 
-| ⚡ **Decent Level** | 🌱 **Basic Level** | 🛠️ **Tools** |
+| ⚡ **Decent Level** | 🌱 **Basic Level** | 🔧 **Essential Tools** |
 |:---:|:---:|:---:|
 | <img src="https://skillicons.dev/icons?i=kotlin,python,cs&theme=dark" /> | <img src="https://skillicons.dev/icons?i=rust,c,cpp,kubernetes&theme=dark" /> | <img src="https://skillicons.dev/icons?i=git,bash,postgres,cloudflare&theme=dark" /> |
 
 </div>
 
 <div align="center">
-  <h3>🎨 Development Environment and more</h3>
+  <h3>🛠️ Development Environment & Productivity Tools</h3>
   <img src="https://skillicons.dev/icons?i=webstorm,idea,neovim,vim,vscode,vscodium&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=pnpm,md,latex,grafana,pinia&theme=dark" />
   <br/>
   <img src="https://skillicons.dev/icons?i=raspberrypi,redhat&theme=dark" />
 </div>
-
-
 
 <br/>
 <br/>
@@ -130,9 +133,14 @@ current_focus:
 
 <div align="center">
   
-  ### 🎵 Coding Soundtrack
-  
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=gqb11pvx8q0oigq54mxx7drgm&count=3&unique=true" alt="Spotify recently played" />
+  ### 🎵 Currently listening to
+
+<a href="https://kranarienvogel.pythonanywhere.com/link">
+  <img
+    src="https://kranarienvogel.pythonanywhere.com?spin=true&scan=true&theme=dark"
+    alt="Current Spotify Song"
+  />
+</a>
   
 </div>
 
@@ -156,9 +164,6 @@ current_focus:
   
   <a href="https://ko-fi.com/kranarienvogel" target="_blank">
     <img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi" />
-  </a>
-  <a href="https://github.com/sponsors/LeeKrane" target="_blank">
-    <img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" alt="GitHub Sponsors" />
   </a>
   
 </div>
