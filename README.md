@@ -170,16 +170,6 @@ current_focus:
   
 </div>
 
----
-
-<div align="center">
-  
-  ### 📈 Profile Stats
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeeKrane&theme=radical" alt="Profile summary" />
-  
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=fadeIn" />
 </div>
