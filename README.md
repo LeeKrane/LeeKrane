@@ -31,6 +31,7 @@ current_focus:
     thesis: "DevOps Practices and Platform Evaluation for Small Projects"
     location: "Austria 🇦🇹"
     status: "Open to collaboration"
+    aliases: ["Krane", "Kranarienvogel", "LeeKrane"]
 ```
 
 <div align="center">
