@@ -65,7 +65,6 @@ current_focus:
 </div>
 
 <br/>
-<br/>
 
 ---
 
@@ -89,7 +88,6 @@ current_focus:
 
 </div>
 
-<br/>
 <br/>
 
 ---
@@ -119,7 +117,6 @@ current_focus:
   <img src="https://skillicons.dev/icons?i=raspberrypi,redhat&theme=dark" />
 </div>
 
-<br/>
 <br/>
 
 ---
@@ -160,6 +157,8 @@ current_focus:
 </a>
   
 </div>
+
+<br/>
 
 ---
 
