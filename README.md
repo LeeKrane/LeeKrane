@@ -186,11 +186,5 @@ current_focus:
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer&animation=fadeIn" />
-</div>
-
-<div align="center">
-  
-  **Thanks for visiting! Let's connect and build something amazing together! 🚀**
-  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&animation=fadeIn&text=Thanks%20for%20visiting!%20Let's%20connect%20and%20build%20something%20amazing%20together!%20🚀&fontSize=18&fontColor=fff&fontAlignY=72" />
 </div>
