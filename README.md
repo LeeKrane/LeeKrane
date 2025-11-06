@@ -82,8 +82,8 @@ current_focus:
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/danielgrafeneder21/ci-cd-uebung-grafeneder/pull/1#issuecomment-3376803840) in [danielgrafeneder21/ci-cd-uebung-grafeneder](https://github.com/danielgrafeneder21/ci-cd-uebung-grafeneder)
-2. 🗣 Commented on [#1](https://github.com/mrCrpn/ci-cd-uebung-cirpan/pull/1#issuecomment-3376779879) in [mrCrpn/ci-cd-uebung-cirpan](https://github.com/mrCrpn/ci-cd-uebung-cirpan)
+1.  Labeled issue [#51](https://github.com/LeeKrane/ResuGen/issues/51) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+2.  Unlabeled issue [#51](https://github.com/LeeKrane/ResuGen/issues/51) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
 <!--END_SECTION:activity-->
 
 </div>
