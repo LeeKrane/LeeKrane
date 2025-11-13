@@ -14,7 +14,6 @@
 
   <br/>
 
-  <img src="https://img.shields.io/github/last-commit/LeeKrane/LeeKrane?label=Last%20Updated&style=flat&color=green" />
   <img src="https://img.shields.io/badge/OS-Nobara%20Linux-informational?style=flat&logo=nobara-linux&logoColor=white&color=FCC624" />
   <img src="https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=zsh&logoColor=white&color=4EAA25" />
 
