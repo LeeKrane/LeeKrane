@@ -81,8 +81,8 @@ current_focus:
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1.  Labeled issue [#51](https://github.com/LeeKrane/ResuGen/issues/51) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
-2.  Unlabeled issue [#51](https://github.com/LeeKrane/ResuGen/issues/51) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+1.  Assigned issue [#97](https://github.com/LeeKrane/ResuGen/issues/97) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+2.  Labeled issue [#97](https://github.com/LeeKrane/ResuGen/issues/97) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
 <!--END_SECTION:activity-->
 
 </div>
