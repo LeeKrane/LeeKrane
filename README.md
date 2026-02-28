@@ -81,7 +81,7 @@ current_focus:
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#102](https://github.com/LeeKrane/ResuGen/pull/102) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+1. ❌ Closed PR [#103](https://github.com/LeeKrane/ResuGen/pull/103) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
 2. 💪 Opened PR [#102](https://github.com/LeeKrane/ResuGen/pull/102) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
 <!--END_SECTION:activity-->
 
