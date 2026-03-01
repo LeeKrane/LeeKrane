@@ -81,8 +81,8 @@ current_focus:
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#107](https://github.com/LeeKrane/ResuGen/issues/107) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
-2. ℹ️ Labeled issue [#107](https://github.com/LeeKrane/ResuGen/issues/107) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+1. 💪 Opened PR [#109](https://github.com/LeeKrane/ResuGen/pull/109) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+2. ℹ️ Unassigned PR [#108](https://github.com/LeeKrane/ResuGen/pull/108) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
 <!--END_SECTION:activity-->
 
 </div>
