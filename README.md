@@ -81,8 +81,8 @@ current_focus:
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#122](https://github.com/LeeKrane/ResuGen/pull/122) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
-2. 🗣 Commented on [#122](https://github.com/LeeKrane/ResuGen/pull/122#issuecomment-3981171676) in [LeeKrane/ResuGen](https://github.com/LeeKrane/ResuGen)
+1. 🎉 Merged PR [#1](https://github.com/LeeKrane/jarvis-demo/pull/1) in [LeeKrane/jarvis-demo](https://github.com/LeeKrane/jarvis-demo)
+2. 💪 Opened PR [#1](https://github.com/LeeKrane/jarvis-demo/pull/1) in [LeeKrane/jarvis-demo](https://github.com/LeeKrane/jarvis-demo)
 <!--END_SECTION:activity-->
 
 </div>
