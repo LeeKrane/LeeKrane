@@ -81,8 +81,8 @@ current_focus:
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/LeeKrane/jarvis-demo/pull/1) in [LeeKrane/jarvis-demo](https://github.com/LeeKrane/jarvis-demo)
-2. 💪 Opened PR [#1](https://github.com/LeeKrane/jarvis-demo/pull/1) in [LeeKrane/jarvis-demo](https://github.com/LeeKrane/jarvis-demo)
+1. 🎉 Merged PR [#1](https://github.com/LeeKrane/dante-ai/pull/1) in [LeeKrane/dante-ai](https://github.com/LeeKrane/dante-ai)
+2. 💪 Opened PR [#1](https://github.com/LeeKrane/dante-ai/pull/1) in [LeeKrane/dante-ai](https://github.com/LeeKrane/dante-ai)
 <!--END_SECTION:activity-->
 
 </div>
