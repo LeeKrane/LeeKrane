@@ -156,8 +156,8 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
     <td align="right"><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,pinia,html,css&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=ts,js,vue,nuxtjs,tailwind,pinia,html,css&theme=light" alt="TypeScript, JavaScript, Vue, Nuxt, Tailwind, Pinia, HTML, CSS" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Cnuxtjs%2Cpinia%2Ctailwind%2Chtml%2Ccss&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=ts%2Cjs%2Cvue%2Cnuxtjs%2Cpinia%2Ctailwind%2Chtml%2Ccss&theme=light" alt="ts, js, vue, nuxtjs, pinia, tailwind, html, css" />
       </picture>
     </td>
   </tr>
@@ -165,8 +165,8 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
     <td align="right"><b>Backend &amp; Data</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python,supabase,postgres,mysql&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,python,supabase,postgres,mysql&theme=light" alt="Node.js, NestJS, Java, Spring, Python, Supabase, PostgreSQL, MySQL" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cjava%2Cspring%2Cpython%2Csupabase%2Cpostgres%2Cmysql&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nodejs%2Cnestjs%2Cjava%2Cspring%2Cpython%2Csupabase%2Cpostgres%2Cmysql&theme=light" alt="nodejs, nestjs, java, spring, python, supabase, postgres, mysql" />
       </picture>
     </td>
   </tr>
@@ -174,29 +174,33 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
     <td align="right"><b>DevOps &amp; Infra</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,nix,docker,kubernetes,githubactions,cloudflare,grafana,raspberrypi&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=linux,nix,docker,kubernetes,githubactions,cloudflare,grafana,raspberrypi&theme=light" alt="Linux, Nix, Docker, Kubernetes, GitHub Actions, Cloudflare, Grafana, Raspberry Pi" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux%2Cnix%2Cdocker%2Ckubernetes%2Cgithubactions%2Ccloudflare%2Cgrafana%2Craspberrypi%2Credhat&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=linux%2Cnix%2Cdocker%2Ckubernetes%2Cgithubactions%2Ccloudflare%2Cgrafana%2Craspberrypi%2Credhat&theme=light" alt="linux, nix, docker, kubernetes, githubactions, cloudflare, grafana, raspberrypi, redhat" />
       </picture>
-      <br/>
-      <img src="https://img.shields.io/badge/Coolify-8B5CF6?style=flat-square&logo=coolify&logoColor=white" alt="Coolify" />
-      <img src="https://img.shields.io/badge/Dokploy-1F2937?style=flat-square" alt="Dokploy" />
+      <img src="https://cdn.simpleicons.org/coolify/8B5CF6" height="48" alt="Coolify" />
     </td>
   </tr>
   <tr>
     <td align="right"><b>AI &amp; Agents</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-      <img src="https://img.shields.io/badge/MCP-111111?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol" />
-      <img src="https://img.shields.io/badge/Agent_Orchestration-8250DF?style=flat-square" alt="Agent orchestration" />
-      <img src="https://img.shields.io/badge/Voice_Interfaces-0969DA?style=flat-square" alt="Voice interfaces" />
+      <a href="https://claude.com/product/claude-code"><img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude Code" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="right"><b>Other languages</b></td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Ccs%2Crust%2Cc%2Ccpp&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=kotlin%2Ccs%2Crust%2Cc%2Ccpp&theme=light" alt="kotlin, cs, rust, c, cpp" />
+      </picture>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Tools</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,bash,neovim,vscode,webstorm,idea,pnpm,latex,md&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=git,bash,neovim,vscode,webstorm,idea,pnpm,latex,md&theme=light" alt="Git, Bash, Neovim, VS Code, WebStorm, IntelliJ IDEA, pnpm, LaTeX, Markdown" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cbash%2Cneovim%2Cvim%2Cvscode%2Cvscodium%2Cwebstorm%2Cidea%2Cpnpm%2Clatex%2Cmd&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=git%2Cbash%2Cneovim%2Cvim%2Cvscode%2Cvscodium%2Cwebstorm%2Cidea%2Cpnpm%2Clatex%2Cmd&theme=light" alt="git, bash, neovim, vim, vscode, vscodium, webstorm, idea, pnpm, latex, md" />
       </picture>
     </td>
   </tr>
@@ -204,8 +208,8 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
     <td align="right"><b>Currently learning</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nix,hyprland,rust,kotlin&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nix,hyprland,rust,kotlin&theme=light" alt="Nix, Hyprland, Rust, Kotlin" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nix%2Chyprland%2Crust&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nix%2Chyprland%2Crust&theme=light" alt="nix, hyprland, rust" />
       </picture>
     </td>
   </tr>
