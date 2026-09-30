@@ -226,13 +226,15 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
 
 <div align="center">
   <a href="https://github.com/LeeKrane/github-stats">
-    <img height="180" src="https://raw.githubusercontent.com/LeeKrane/github-stats/generated/overview.svg" alt="GitHub overview stats" />
-    <img height="180" src="https://raw.githubusercontent.com/LeeKrane/github-stats/generated/languages.svg" alt="Most used languages" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeKrane/github-stats/generated/overview.svg#gh-dark-mode-only" />
+      <img height="180" src="https://raw.githubusercontent.com/LeeKrane/github-stats/generated/overview.svg" alt="GitHub overview stats" />
+    </picture>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LeeKrane/github-stats/generated/languages.svg#gh-dark-mode-only" />
+      <img height="180" src="https://raw.githubusercontent.com/LeeKrane/github-stats/generated/languages.svg" alt="Most used languages" />
+    </picture>
   </a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LeeKrane/LeeKrane/metrics/metrics-achievements.svg" alt="GitHub achievements" />
 </div>
 
 <br/>
