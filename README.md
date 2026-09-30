@@ -181,12 +181,6 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
     </td>
   </tr>
   <tr>
-    <td align="right"><b>AI &amp; Agents</b></td>
-    <td>
-      <a href="https://claude.com/product/claude-code"><img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude Code" /></a>
-    </td>
-  </tr>
-  <tr>
     <td align="right"><b>Other languages</b></td>
     <td>
       <picture>
@@ -202,15 +196,17 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
         <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git%2Cbash%2Cneovim%2Cvim%2Cvscode%2Cvscodium%2Cwebstorm%2Cidea%2Cpnpm%2Clatex%2Cmd&theme=dark" />
         <img src="https://skillicons.dev/icons?i=git%2Cbash%2Cneovim%2Cvim%2Cvscode%2Cvscodium%2Cwebstorm%2Cidea%2Cpnpm%2Clatex%2Cmd&theme=light" alt="git, bash, neovim, vim, vscode, vscodium, webstorm, idea, pnpm, latex, md" />
       </picture>
+      <a href="https://claude.com/product/claude-code"><img src="https://cdn.simpleicons.org/claude/D97757" height="48" alt="Claude Code" /></a>
     </td>
   </tr>
   <tr>
     <td align="right"><b>Currently learning</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nix%2Chyprland%2Crust&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nix%2Chyprland%2Crust&theme=light" alt="nix, hyprland, rust" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nix%2Crust&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nix%2Crust&theme=light" alt="nix, rust" />
       </picture>
+      <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" alt="Hyprland" />
     </td>
   </tr>
 </table>
