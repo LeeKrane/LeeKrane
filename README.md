@@ -132,8 +132,8 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/LeeKrane/nixos-dotfiles/pull/2) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
-2. 💪 Opened PR [#2](https://github.com/LeeKrane/nixos-dotfiles/pull/2) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+1. ℹ️ Reopened PR [#3](https://github.com/LeeKrane/nixos-dotfiles/pull/3) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+2. ❌ Closed PR [#3](https://github.com/LeeKrane/nixos-dotfiles/pull/3) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
 <!--END_SECTION:activity-->
 
 </div>
