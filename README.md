@@ -132,8 +132,8 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/LeeKrane/nixos-dotfiles/issues/13#issuecomment-7148074722) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
-2. 🔒 Closed issue [#13](https://github.com/LeeKrane/nixos-dotfiles/issues/13) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+1. 🗣 Commented on [#14](https://github.com/LeeKrane/nixos-dotfiles/issues/14#issuecomment-7156355689) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+2. 🔒 Closed issue [#14](https://github.com/LeeKrane/nixos-dotfiles/issues/14) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
 <!--END_SECTION:activity-->
 
 </div>
