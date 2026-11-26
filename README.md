@@ -26,10 +26,10 @@
 
 ```yaml
 current_focus:
-    project: "Dante AI - a voice for Claude Code"
-    on_hold: "ResuGen - resume generation platform"
-    learning: ["Nix flakes", "Hyprland", "Agentic AI tooling"]
-    expertise: ["Nuxt", "Linux", "DevOps"]
+    project: "Kranetic - workout tracker with a Rust core"
+    also: ["nixos-dotfiles", "claude-dotfiles"]
+    learning: ["Rust", "Scala", "Nix flakes"]
+    expertise: ["Agentic development", "Linux", "DevOps", "Nuxt"]
     education: "MSc Software Engineering @ FH Hagenberg"
     degree: "BSc Mobile Computing @ FH Hagenberg"
     location: "Austria"
@@ -46,9 +46,9 @@ current_focus:
 
 - Studying **Software Engineering (MSc)** at **FH Hagenberg** after finishing my **BSc in Mobile Computing** there
 - Working part-time as **Web Developer** and **DevOps Engineer**
-- Currently building [**Dante AI**](https://github.com/LeeKrane/dante-ai), a voice interface for Claude Code
-- [**ResuGen**](https://github.com/LeeKrane/ResuGen), my resume generator, is on hold for now
-- Daily driver is **NixOS** with **Hyprland**, managed as a flake for three machines in [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+- Currently building [**Kranetic**](https://github.com/kranetic), a workout tracker for Android, iOS and web with a shared Rust core
+- Daily driver is **NixOS** with **Hyprland**, managed as one flake for my desktops and servers in [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+- Tuning my AI setup and workflows in [claude-dotfiles](https://github.com/LeeKrane/claude-dotfiles), with an eye on token usage
 - I live in the terminal (fish + Neovim) and automate everything I can
 - Always up for new tech and open-source collaboration
 
@@ -82,32 +82,40 @@ current_focus:
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/LeeKrane/dante-ai">Dante AI</a></h3>
-      <p align="center"><em>A voice for Claude Code</em></p>
-      <p>Talk to Claude Code out loud: hold a key, speak, release. Your words go to a headless Claude Code session on your machine, the answer comes back in a cloned voice, and an on-screen orb reacts to the audio. It remembers across sessions, builds things in its own workspace, and knows which sessions are running right now.</p>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/kranetic">Kranetic</a></h3>
+      <p align="center"><em>Workout tracker, main project</em></p>
+      <p>A workout tracker for Android, iOS and web, built around a shared Rust core with native UI per platform. Early design phase.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-active-4EAA25?style=flat-square" alt="active" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
-        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Status-in_design-58A6FF?style=flat-square" alt="in design" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" />
       </p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center"><a href="https://github.com/LeeKrane/ResuGen">ResuGen</a></h3>
-      <p align="center"><em>ATS-friendly resume generator</em></p>
-      <p>A modern resume builder with real-time preview, flexible customization, and clean PDF export. Built with Nuxt 3 and Nuxt UI. Currently paused while Dante AI takes priority, but very much alive.</p>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/LeeKrane/nixos-dotfiles">nixos-dotfiles</a></h3>
+      <p align="center"><em>My system, declared</em></p>
+      <p>NixOS + Hyprland flake for my desktops and servers, running the illogical-impulse shell, with sops-nix secrets, sandboxed checks and a one-command installer.</p>
       <p align="center">
-        <img src="https://img.shields.io/badge/Status-on_hold-E7BD69?style=flat-square" alt="on hold" />
-        <img src="https://img.shields.io/badge/Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" alt="Nuxt" />
-        <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Status-active-4EAA25?style=flat-square" alt="active" />
+        <img src="https://img.shields.io/badge/NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="NixOS" />
+        <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=flat-square&logo=hyprland&logoColor=white" alt="Hyprland" />
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center"><a href="https://github.com/LeeKrane/claude-dotfiles">claude-dotfiles</a></h3>
+      <p align="center"><em>My Claude Code setup</em></p>
+      <p>Global Claude Code config: skills, hooks, statusline and workflows, tuned to keep token usage low. Versioned releases.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-active-4EAA25?style=flat-square" alt="active" />
+        <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude Code" />
+        <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell" />
       </p>
     </td>
   </tr>
 </table>
 
-Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) (NixOS + Hyprland flake for three hosts), [claude-dotfiles](https://github.com/LeeKrane/claude-dotfiles) (my Claude Code setup, skills and hooks), [supabase-free-tier-keepalive-agent](https://github.com/LeeKrane/supabase-free-tier-keepalive-agent) (keeps free-tier Supabase projects awake)
+Also on the shelf: [supabase-free-tier-keepalive-agent](https://github.com/LeeKrane/supabase-free-tier-keepalive-agent) (keeps free-tier Supabase projects awake)
 
 </div>
 
@@ -203,8 +211,8 @@ Also on the shelf: [nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles) 
     <td align="right"><b>Currently learning</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nix%2Crust&theme=dark" />
-        <img src="https://skillicons.dev/icons?i=nix%2Crust&theme=light" alt="nix, rust" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nix%2Crust%2Cscala&theme=dark" />
+        <img src="https://skillicons.dev/icons?i=nix%2Crust%2Cscala&theme=light" alt="nix, rust, scala" />
       </picture>
       <img src="https://cdn.simpleicons.org/hyprland/58E1FF" height="48" alt="Hyprland" />
     </td>
