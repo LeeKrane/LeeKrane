@@ -140,8 +140,8 @@ Also on the shelf: [supabase-free-tier-keepalive-agent](https://github.com/LeeKr
 <!-- LEAVE THIS PART ALONE, IT IS FOR A WORKFLOW! -->
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#16](https://github.com/LeeKrane/nixos-dotfiles/issues/16) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
-2. ❗ Opened issue [#15](https://github.com/LeeKrane/nixos-dotfiles/issues/15) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+1. 🔒 Closed issue [#16](https://github.com/LeeKrane/nixos-dotfiles/issues/16) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
+2. 🗣 Commented on [#16](https://github.com/LeeKrane/nixos-dotfiles/issues/16#issuecomment-7232378104) in [LeeKrane/nixos-dotfiles](https://github.com/LeeKrane/nixos-dotfiles)
 <!--END_SECTION:activity-->
 
 </div>
